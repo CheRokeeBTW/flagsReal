@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/flagsReal/static/css/main.1d32147c.css",
+    "main.js": "/flagsReal/static/js/main.e40fa9f7.js",
+    "static/js/453.98635461.chunk.js": "/flagsReal/static/js/453.98635461.chunk.js",
+    "static/media/background.mp3": "/flagsReal/static/media/background.06b1b445a2e32cb7d8f5.mp3",
+    "static/media/monaco.png": "/flagsReal/static/media/monaco.9acd1f2a98c78107b2b8.png",
+    "static/media/nerd.gif": "/flagsReal/static/media/nerd.0de1eb68d9b4383b8326.gif",
+    "static/media/nerdHappy.png": "/flagsReal/static/media/nerdHappy.32e1dc8eb8bcfc026fb2.png",
+    "static/media/rwanda.png": "/flagsReal/static/media/rwanda.a481c5b97e09e5fad897.png",
+    "static/media/nerdSad.png": "/flagsReal/static/media/nerdSad.c72fcc96d66bcf659963.png",
+    "static/media/dial-removebg-preview.png": "/flagsReal/static/media/dial-removebg-preview.a30a3b0cf9a75eed6368.png",
+    "static/media/correct.mp3": "/flagsReal/static/media/correct.72c333e8b759db2cb51d.mp3",
+    "static/media/singapore.png": "/flagsReal/static/media/singapore.347de4fd01b036b5f9a9.png",
+    "static/media/kyrgyzstan.png": "/flagsReal/static/media/kyrgyzstan.1bd79bd7c340121f830f.png",
+    "static/media/Argentina.png": "/flagsReal/static/media/Argentina.df307d495ed11a1959b3.png",
+    "static/media/uganda.png": "/flagsReal/static/media/uganda.4d2b9ad303e81b48b424.png",
+    "static/media/slkscreb.ttf": "/flagsReal/static/media/slkscreb.15ed46abaaa06e2727a2.ttf",
+    "static/media/eth.png": "/flagsReal/static/media/eth.a0cb7bf96aabc4c91d08.png",
+    "static/media/wrong.mp3": "/flagsReal/static/media/wrong.96c994a8d5d954296fa3.mp3",
+    "index.html": "/flagsReal/index.html",
+    "main.1d32147c.css.map": "/flagsReal/static/css/main.1d32147c.css.map",
+    "main.e40fa9f7.js.map": "/flagsReal/static/js/main.e40fa9f7.js.map",
+    "453.98635461.chunk.js.map": "/flagsReal/static/js/453.98635461.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d32147c.css",
+    "static/js/main.e40fa9f7.js"
+  ]
+}
